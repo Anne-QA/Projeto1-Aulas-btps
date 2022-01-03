@@ -1,6 +1,6 @@
 ### Exemplo de Readme para o seu projeto
 
-# api-sentimentos
+# api-contador de palavras
 
 Projeto que sobe um Container e, neste, uma API RESTful com o Swagger
 
